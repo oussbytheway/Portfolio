@@ -22,6 +22,6 @@ first you should:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/oussbytheway/oussthecodeguy
 
 2. Modify the code to make your own portfolio
