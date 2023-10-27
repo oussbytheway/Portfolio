@@ -2,7 +2,7 @@
 ## Overview
 
 This is the repository for my personal portfolio website, where I showcase my work, projects, and achievements. 
-You can visit the live website here: [oussthecodeguy.com](oussbytheway.github.io/Portfolio)
+You can visit the live website here: [oussthecodeguy.com](https://oussbytheway.github.io/Portfolio/)
 
 ## Features
 
